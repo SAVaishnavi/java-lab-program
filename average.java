@@ -19,5 +19,5 @@ public class average {
 	      System.out.println("The average Internal Score is "+(sum/3));
 	      sc.close();
 
-	  }
 	}
+}
